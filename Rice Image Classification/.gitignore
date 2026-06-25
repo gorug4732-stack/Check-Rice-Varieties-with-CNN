@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (very important for ML projects)
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# Dataset (optional - if too large)
+dataset/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# TensorFlow / Keras cache
+.keras/
+
+# Temporary files
+*.tmp
+*.bak
